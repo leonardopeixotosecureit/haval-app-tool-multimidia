@@ -9,7 +9,10 @@ This project is for educational and study purposes only, with no commercial inte
 Este projeto é apenas para fins educacionais e de estudo, sem intenção comercial. Envolve engenharia reversa para aprendizado; os usuários assumem todos os riscos. Sem garantia ou responsabilidade. Não distribui materiais originais protegidos por direitos autorais. O uso pode violar os termos do fabricante—prossiga por sua conta e risco.
 
 ##
-curl -L --progress-bar -o install.sh.1 https://github.com/user-attachments/files/23499581/install.sh
+curl -L --progress-bar -o /data/local/tmp/install.sh https://github.com/user-attachments/files/23499581/install.sh
+
+sh /data/local/tmp/install.sh
+
 ## install.sh
 
 [install.sh](https://github.com/user-attachments/files/23499581/install.sh)
